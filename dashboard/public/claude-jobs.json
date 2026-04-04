@@ -1,12 +1,51 @@
 {
-  "lastUpdated": "2026-04-03T05:00:00.305361+00:00",
-  "totalJobs": 73,
+  "lastUpdated": "2026-04-04T04:45:44.976445+00:00",
+  "totalJobs": 75,
   "sources": [
     "Anthropic",
     "HackerNews",
-    "RemoteOK"
+    "RemoteOK",
+    "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "hn-47632126",
+      "company": "Pinehurst, TX",
+      "position": "Senior Systems Architect",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Overview We are looking for a senior systems architect, not a feature developer. This role is for someone who: . has designed systems end-to-end . understands how to structure complex backend systems . can work alongside AI-assisted development (not against it) If your primary strength is writing...",
+      "applyUrl": "https://news.ycombinator.com/item?id=47632126",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=47632126",
+      "postedAt": "2026-04-03T20:53:59+00:00",
+      "tags": [],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-47628976",
+      "company": "Onos Health",
+      "position": "Staff Software Engineer",
+      "location": "San Francisco (Hybrid)",
+      "remote": false,
+      "salary": "",
+      "description": "30 cents of every behavioral health dollar in the U.S. is wasted — on ineffective care, administrative overhead, and outright fraud. Onos fixes this by ensuring every healthcare dollar goes toward high quality care. Our AI platform helps health plans identify where care is going wrong, get members...",
+      "applyUrl": "https://news.ycombinator.com/item?id=47628976",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=47628976",
+      "postedAt": "2026-04-03T16:44:58+00:00",
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "PostgreSQL",
+        "AWS",
+        "Claude Code",
+        "Django"
+      ],
+      "companyIcon": ""
+    },
     {
       "id": "hn-47613220",
       "company": "Scite (scite.ai)",
@@ -788,6 +827,27 @@
       "companyIcon": ""
     },
     {
+      "id": "wwr-uncanny-owl-wordpress-developer",
+      "company": "Uncanny Owl",
+      "position": "WordPress Developer",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: [Remote] URL: https://automatorplugin.com As a WordPress Developer, you're responsible for Making Stuff Go. You'll build and maintain integrations that connect WordPress to hundreds of external services—from CRMs and email platforms to payment gateways and social networks. You'll own...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/uncanny-owl-wordpress-developer",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/uncanny-owl-wordpress-developer",
+      "postedAt": "2026-02-04T21:57:47+00:00",
+      "tags": [
+        "React",
+        "JavaScript",
+        "Claude Code",
+        "Vue.js",
+        "MySQL"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "hn-46881503",
       "company": "Language REACTOR",
       "position": "Software Engineer",
@@ -967,29 +1027,6 @@
         "Claude Code",
         "Django",
         "Tailwind"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "hn-46858502",
-      "company": "Mondrio",
-      "position": "Software Engineer",
-      "location": "REMOTE (Brazil)",
-      "remote": true,
-      "salary": "",
-      "description": "B2B SaaS pricing is still guesswork. We’re building the AI-powered monetization operating system to fix it. We are pre-seed, lean (4 people), and shipping to live customers. The Experience: This is a unique \"fast-track\" for an ambitious junior/mid-level engineer. You’ll skip the corporate ladder...",
-      "applyUrl": "https://news.ycombinator.com/item?id=46858502",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com/item?id=46858502",
-      "postedAt": "2026-02-02T17:19:43+00:00",
-      "tags": [
-        "React",
-        "Python",
-        "Docker",
-        "Claude Code",
-        "Cursor",
-        "Copilot",
-        "MongoDB"
       ],
       "companyIcon": ""
     },
