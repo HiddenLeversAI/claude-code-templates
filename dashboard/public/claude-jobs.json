@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-04T04:45:44.976445+00:00",
-  "totalJobs": 75,
+  "lastUpdated": "2026-04-05T05:06:50.742519+00:00",
+  "totalJobs": 77,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -8,6 +8,29 @@
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "hn-47638363",
+      "company": "Adclear",
+      "position": "Senior Fullstack Engineer",
+      "location": "London, UK",
+      "remote": false,
+      "salary": "",
+      "description": "We're turning compliance from a bottleneck into a creative advantage for regulated brands. Clients include Monzo, Lloyds, PensionBee, and Plum. Raised £2.6m+ from Outward VC in our first 14 months. The problem: we run multi-agent AI pipelines that evaluate regulated marketing content in real time....",
+      "applyUrl": "https://news.ycombinator.com/item?id=47638363",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=47638363",
+      "postedAt": "2026-04-04T12:12:57+00:00",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Python",
+        "PostgreSQL",
+        "Claude Code",
+        "Cursor",
+        "Tailwind"
+      ],
+      "companyIcon": ""
+    },
     {
       "id": "hn-47632126",
       "company": "Pinehurst, TX",
@@ -1027,6 +1050,29 @@
         "Claude Code",
         "Django",
         "Tailwind"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-46858502",
+      "company": "Mondrio",
+      "position": "Software Engineer",
+      "location": "REMOTE (Brazil)",
+      "remote": true,
+      "salary": "",
+      "description": "B2B SaaS pricing is still guesswork. We’re building the AI-powered monetization operating system to fix it. We are pre-seed, lean (4 people), and shipping to live customers. The Experience: This is a unique \"fast-track\" for an ambitious junior/mid-level engineer. You’ll skip the corporate ladder...",
+      "applyUrl": "https://news.ycombinator.com/item?id=46858502",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=46858502",
+      "postedAt": "2026-02-02T17:19:43+00:00",
+      "tags": [
+        "React",
+        "Python",
+        "Docker",
+        "Claude Code",
+        "Cursor",
+        "Copilot",
+        "MongoDB"
       ],
       "companyIcon": ""
     },
