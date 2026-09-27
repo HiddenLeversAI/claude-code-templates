@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-26T08:07:37.976902+00:00",
-  "totalJobs": 89,
+  "lastUpdated": "2026-09-27T08:43:33.220670+00:00",
+  "totalJobs": 90,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -540,6 +540,27 @@
         "TypeScript",
         "Python",
         "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5390894008",
+      "company": "Anthropic",
+      "position": "Manager Applied AI Architecture, Financial Services",
+      "location": "New York City, NY; San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "As manager of the Financial Services Solutions Architect team within Applied AI at Anthropic, you will drive the adoption of frontier AI in partnership with the rest of the go to market organization. We work with customers that include companies across banking, insurance, asset management, and...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390894008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390894008",
+      "postedAt": "2026-08-20T21:55:46-04:00",
+      "tags": [
+        "Rust",
+        "Go",
         "AWS",
         "Claude Code",
         "Anthropic"
